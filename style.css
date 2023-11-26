@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+header{
+    margin-bottom: 1rem;
+    padding-bottom: 15px;
+   padding-top: 1.5rem;
+   padding-bottom: 0rem;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700px;
+    background-color: #BA5D34;
+    
+
+}
+button{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: #994e2d;
+    border-radius: 9rem;
+    padding:0.5rem 0.5rem 0.5rem;
+    border-style: none;
+    font-weight: bold ;
+    text-transform: initial;
+    color: rgb(241, 240, 240);
+    margin-right: 16px;
+}
+main {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.inicial + h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#membrosLista{
+    margin-left: 20px;
+
+}
+.menualbuns{
+    size: 19px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    display: inline-block;
+   
+    
+}
